@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Whitey
+description: "Withey uses a fully white background for your content, making it easy to read and focus on the text."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
