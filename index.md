@@ -1,4 +1,6 @@
 ---
+title: home
 ---
 
-# tonic-starter
+# Whitey
+*Whitey* uses a fully white background for your content
